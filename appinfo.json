@@ -1,0 +1,24 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "311a08cc-edcb-4cf6-a9cc-7245732afb0c",
+    "appKeys": {},
+    "longName": "status test",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "status test",
+    "companyName": "RealGarethEvans",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "PHONE_WHITE",
+                "file": "images/phone.png"
+            }
+        ]
+    }
+}
